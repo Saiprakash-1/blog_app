@@ -69,6 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### To Download all the dependencies 
+`npm install`
+    `or`
+`yarn install`
 ###  How to run client server side 
 `yarn start`
 ### How to run api server side
